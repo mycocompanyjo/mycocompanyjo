@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Joshua+Wahyu+Novianto!;Founder+of+MyCo.;We+Build+Web+Apps+That+Grow+Businesses" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" />
-</p>
-
 ---
 
 ### 🌟 About Me

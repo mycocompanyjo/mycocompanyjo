@@ -8,7 +8,7 @@
 
 I'm a **Full-Stack Web Developer** & the **Founder of MyCo**, a company that builds modern, scalable, and efficient web applications tailored to help businesses **grow faster and smarter**.
 
-💼 With over **7 years of experience**, I’ve worked with companies and startups to turn ideas into fully functional digital products.
+💼 With over **3 years of experience**, I’ve worked with companies and startups to turn ideas into fully functional digital products.
 
 ---
 
